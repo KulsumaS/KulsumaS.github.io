@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+ ,
+body
+
+{
+
+    margin: 0px;
+
+    padding: 0px;
+
+    background-color:white;
+
+    font-family: Arial, Helvetica, "sans-serif";
+
+    font-size: 18px;
+
+    text-align: center;
+
+}
+
+#page
+
+{
+
+    max-width:800px;
+
+    margin: 20px auto;
+
+    padding: 30px;
+
+    background-color: #FFFFC5;
+    height:110% ;
+
+}
+#header /* Styles for Heading */
+
+{
+
+    padding: 5px;
+
+    background-color: #ff007f ;
+
+    text-align: center;
+
+}
+img
+
+{
+
+    border: double 10px #ff007f;
+
+}
+.list
+{
+    color: #FFC300;
+   ol.list{
+       color: #FFC300;
+   }
+}
+#h1{
+    color:#FFC300;
+    margin: 0px;
+    font-size: 36px;
+}
+
+#right-column
+
+{
+
+    float: right;
+
+    width: 350px;
+
+    text-align: left;
+
+}
+ h2 {font-size: 1.2rem; font-weight: bold; color: #ff007f;}
+
+h3 {color: white;}
